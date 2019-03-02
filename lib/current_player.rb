@@ -4,5 +4,4 @@ def turn_count
     if space === "X" || space === "O"
      count += 1
     end
-    
 end
