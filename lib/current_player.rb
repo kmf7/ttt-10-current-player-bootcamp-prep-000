@@ -3,9 +3,6 @@ def turn_count
   board.each do |space|
     if space === "X" || space === "O"
      count += 1
-     
-    else 
-      count = count
     end
     
 end
